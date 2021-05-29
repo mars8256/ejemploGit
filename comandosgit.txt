@@ -37,3 +37,8 @@ Sexto comando
 	Nos sirve para recibir actualizaciones del repocitorio remoto.
 	git pull
 
+septimo comando
+
+	guarda los cambios en una directorio sucio
+	git stash
+
