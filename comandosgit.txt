@@ -32,3 +32,6 @@ quinto comando
 	nos sirve para cambiar de una rama a otra
 	git chekout "nombre de la rama"
 
+Septimo comando 
+	Este comando creara una rama en local
+	git branch ""nombre-de-la-rama""
