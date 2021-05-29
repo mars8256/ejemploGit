@@ -1,0 +1,16 @@
+Hola a todos este archivo se realiza para contener 
+comandos de git
+
+
+primer comando 
+	nos sirve para indicar que deseamos iniciar git
+	en determinado proyecto o carpeta.
+
+	git init
+
+
+segundo comando
+	nos sirve para verificar el estado de los archivos
+	dentro del proyecto
+
+	git status
