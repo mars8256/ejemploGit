@@ -39,6 +39,6 @@ Sexto comando
 
 septimo comando
 
-	guarda los cambios en una directorio sucio
+	guarda los cambios en un directorio sucio
 	git stash
 
