@@ -27,7 +27,8 @@ cuarto comando
 	
 	git commit -m "descripción del cambio realizado"
 
+quinto comando
 
-
-
+	nos sirve para cambiar de una rama a otra
+	git chekout "nombre de la rama"
 
