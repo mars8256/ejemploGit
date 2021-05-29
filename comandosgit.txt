@@ -32,3 +32,9 @@ quinto comando
 	nos sirve para cambiar de una rama a otra
 	git chekout "nombre de la rama"
 
+Sexto comando
+	
+	Nos sirve para recibir actualizaciones del repocitorio remoto.
+	git pull
+	esto es el ejemplo
+
