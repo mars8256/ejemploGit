@@ -36,5 +36,4 @@ Sexto comando
 	
 	Nos sirve para recibir actualizaciones del repocitorio remoto.
 	git pull
-	esto es el ejemplo
 
