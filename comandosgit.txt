@@ -22,6 +22,12 @@ tercer comando
 	git add nombredelarchivo
 
 
+cuarto comando
+	nos sirve para guardar los cambios realizados
+	
+	git commit -m "descripción del cambio realizado"
+
+
 
 
 
