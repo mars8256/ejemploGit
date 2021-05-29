@@ -47,4 +47,7 @@ septimo comando
 	guarda los cambios en un directorio sucio
 	git stash
 
+octavo comando
+	descompone el archivo, conservando el contenido del mismo
+	git reset
 >>>>>>> f17ac5ad470289ed8a8f513bfc29f1dce7ca7846
