@@ -32,6 +32,19 @@ quinto comando
 	nos sirve para cambiar de una rama a otra
 	git chekout "nombre de la rama"
 
+<<<<<<< HEAD
 Septimo comando 
 	Este comando creara una rama en local
 	git branch ""nombre-de-la-rama""
+=======
+Sexto comando
+	
+	Nos sirve para recibir actualizaciones del repocitorio remoto.
+	git pull
+
+septimo comando
+
+	guarda los cambios en un directorio sucio
+	git stash
+
+>>>>>>> f17ac5ad470289ed8a8f513bfc29f1dce7ca7846
