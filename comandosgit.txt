@@ -14,3 +14,14 @@ segundo comando
 	dentro del proyecto
 
 	git status
+
+
+tercer comando 
+	nos sirve para cargar nuestros archivos al área de stagin	
+
+	git add nombredelarchivo
+
+
+
+
+
