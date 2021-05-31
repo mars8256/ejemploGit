@@ -58,3 +58,7 @@ decimo comando
 onceavo comando 
 	Muestra información para saber el uso de cada comando en git
 	git help
+
+doceavo comando 
+	fusiona dos o mas ramas
+	git merge 
