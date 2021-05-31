@@ -54,3 +54,7 @@ noveno comando
 decimo comando
 	muestra las diferencias de archivo que aún no se ponen en escena
 	git diff
+
+onceavo comando 
+	Muestra información para saber el uso de cada comando en git
+	git help
