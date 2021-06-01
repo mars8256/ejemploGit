@@ -62,3 +62,19 @@ onceavo comando
 doceavo comando 
 	fusiona dos o mas ramas
 	git merge 
+
+treceavo comando
+	subir al repositorio
+	git push origin (master) reemplaza master con la rama en la que quieres enviar los cambios cuando no quieras enviarlos a la rama maestra
+
+catorceavo comando
+	guarda momentaneamente los cambios que no estan listos para ser confirmados. De esta manera se puede volver al proyecto mas tarde
+	git stash
+
+quinceavo comando
+	se usa para mostrar informacion sobre cualquier objeto git
+	git show
+
+dieciseisavo comando
+	permite buscar todos los objetos de un repositorio remoto que actualmente no se encuentran en el directorio de trabajo local.
+	git fetch origin
