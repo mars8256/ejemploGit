@@ -78,3 +78,7 @@ quinceavo comando
 dieciseisavo comando
 	permite buscar todos los objetos de un repositorio remoto que actualmente no se encuentran en el directorio de trabajo local.
 	git fetch origin
+
+dieciochoavo comando
+	interfaz grafica por defecto
+	gitk
