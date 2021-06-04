@@ -85,4 +85,4 @@ dieciochoavo comando
 
 diecinueveavo comando
 	sirve para tener una cronología de cambios en el repositorio.
-	git log
+	git log "correo"
